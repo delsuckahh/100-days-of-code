@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 28, 2019
+
+**Today's Progress**: Got stuck on revising the recipe model, completed part 1 of data model tutorial. 
+
+**Thoughts:** I was feeling good with the progress I made in the past week (and I still am), but I realized that I need to get a little more complicated.  The tutorials I went through had implemented simple data models, but I need a "complex" data model for my recipe class.  I'll spend the next day or two in tutorials, and then its back to project work.
+
+**Link to work:** <br>
+[Contoso University](https://github.com/delsuckahh/Contoso-University)<br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application)
+
 ### Day 7: January 27, 2019
 
 **Today's Progress**: Got a working version of the recipe model, implemented the controller/view, and updated the EFCore database to recognize the new recipe model.   
