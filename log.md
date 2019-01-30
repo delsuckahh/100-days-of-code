@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 9: January 29, 2019
+
+**Today's Progress**: Finalized recipe model on paper, fiddled around with building the database using the code first method of the Entity Framework Core. 
+
+**Thoughts:** I made some headway in understanding the code first method of datbase design in EFC.  I'm struggling right now with making the relations between tables actually work.  I've got everything planned out, and I'm sure I could write this all out in PL/SQL...but that's not the point of this project.  I seem to have the recipe table linked to the user table, but because the "user" table is from asp.net's Identity library, it's a bit more difficult to work with and understand.  I'm trying to figure out how to automatically get the current user and assign that to the recipe table upon creation.
+
+**Link to work:** <br>
+[DB Practice](https://github.com/delsuckahh/data-relation-practice)<br>
+
 ### Day 8: January 28, 2019
 
 **Today's Progress**: Got stuck on revising the recipe model, completed part 1 of data model tutorial. 
