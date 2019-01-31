@@ -8,7 +8,7 @@
 
 **Link to work:** <br>
 [DB Practice](https://github.com/delsuckahh/data-relation-practice)<br>
-[Separate User from ApplicationUser](https://msdn.microsoft.com/en-us/magazine/dn818488.aspx)
+[Separate User from ApplicationUser](https://msdn.microsoft.com/en-us/magazine/dn818488.aspx) <br>
 [Assign User in Controller](https://gavilan.blog/2018/04/15/relationship-between-tables-and-aspnetusers/)
 
 ### Day 9: January 29, 2019
