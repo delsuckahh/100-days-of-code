@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 10: January 30, 2019
+### Day 11: January 31, 2019
 
 **Today's Progress**: Not much.
 
