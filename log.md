@@ -2,6 +2,17 @@
 
 ### Day 10: January 30, 2019
 
+**Today's Progress**: Not much.
+
+**Thoughts:** This seems so simple, I'm getting a little frustrated that I can't figure it out.  I'm going to take a step back tomorrow and approach from a different angle.  Just read up on documentation and stack overflow posts, and tried a million different little solutions (none worked).
+
+**Link to work:** <br>
+[DB Practice](https://github.com/delsuckahh/data-relation-practice)<br>
+[Separate User from ApplicationUser](https://msdn.microsoft.com/en-us/magazine/dn818488.aspx) <br>
+[Assign User in Controller](https://gavilan.blog/2018/04/15/relationship-between-tables-and-aspnetusers/)
+
+### Day 10: January 30, 2019
+
 **Today's Progress**: Continued to work through linking the recipe model to the built in Identity library.
 
 **Thoughts:** I feel like I've got the right idea in linking the recipe to the user - I'm think I'm close to getting it.  But I just can't quite get it to work.  I'm now getting an ```InvalidOperationException: Unable to resolve service for type``` error.  I think I need to add something to the Startup.cs class under the ConfigureServices method, but I can't figure out WHAT exactly.  I'll keep digging.
