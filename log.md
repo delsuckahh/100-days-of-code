@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 12: February 02, 2019
+
+**Today's Progress**: Helped others on discord and read up on (more) documentation.
+
+**Thoughts:** I missed yesterday due to my wife's birthday.  I intended to still get my hour of coding in, but we went out after I got home from work, and we didn't get back until 12:30-1am.  I'll not count yesterday and add an additional day on the end of my challenge (per the rules). I've been trying to be more active on the Discord with helping and encouraging others taking part of the challenge.  I'm in a bit of a slump with my project, but hopefully I can make a breakthrough soon.
+
+**Link to work:** <br>
+[DB Practice](https://github.com/delsuckahh/data-relation-practice)<br>
+[Discord](https://discord.gg/96kYFv)
+
 ### Day 11: January 31, 2019
 
 **Today's Progress**: Not much.
