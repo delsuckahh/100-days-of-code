@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 13: February 03, 2019
+
+**Today's Progress**: Finished 2 sections in the 'Contoso University' tutorial by Microsoft.
+
+**Thoughts:** I've decided to step away from my recipe meal planner app for a moment.  I wasn't making any headway on an issue I was facing, so I've decided to revisit a tutorial that I started but did not finish.  The tutorial is going well, it's mainly showing me best practices for designing web applications, in regards to handling requests and data security.  I also learned some neat c# tricks like the null-coalescing operator.
+
+**Link to work:** <br>
+[Contoso University](https://github.com/delsuckahh/Contoso-University) <br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/sorting-filtering-and-paging-with-the-entity-framework-in-an-asp-net-mvc-application)
+
 ### Day 12: February 02, 2019
 
 **Today's Progress**: Helped others on discord and read up on (more) documentation.
