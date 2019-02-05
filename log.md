@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 14: February 04, 2019
+
+**Today's Progress**: Finished another section in the 'Contoso University' tutorial by Microsoft.
+
+**Thoughts:** This tutorial series is going well.  I'm learning more about best practices and some behind-the-scene concepts than I thought I would.  I do wish that the tutorial would go more into detail about the code being written; it kind of glosses over the code and gives more broad information.  I did venture from the tutorial to learn a little more about interfaces.  I found a cool video that described interfaces as being loosely coupled.  The analogy given was a chef and a restaurant.  The restaraunt obviously needs a chef, but if the chef they have now decides to move on, they can just hire another chef.  This an example of a loosely coupled relationship.  A tightly coupled relationship would be a restaraunt that needs a chef named John.  
+
+**Link to work:** <br>
+[Contoso University](https://github.com/delsuckahh/Contoso-University) <br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/connection-resiliency-and-command-interception-with-the-entity-framework-in-an-asp-net-mvc-application)<br>
+[Interface Video](https://www.youtube.com/watch?v=aQ8YkJrAbzE)
+
 ### Day 13: February 03, 2019
 
 **Today's Progress**: Finished 2 sections in the 'Contoso University' tutorial by Microsoft.
