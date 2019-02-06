@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 15: February 05, 2019
+
+**Today's Progress**: Just finished another section in the 'Contoso University' tutorial by Microsoft.
+
+**Thoughts:** Had to do a short session tonight, my wife's brother just had a baby!  We spent some time up at the hospital so my coding time was cut a little short.  Today I learned about code first migrations and it's benefit in a production environment.  Migrations allow you to make changes to the data model and update the database without dropping and readding.  This is especially helpful in production environments so you don't lose any data.  
+
+**Link to work:** <br>
+[Contoso University](https://github.com/delsuckahh/Contoso-University) <br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/migrations-and-deployment-with-the-entity-framework-in-an-asp-net-mvc-application)<br>
+
 ### Day 14: February 04, 2019
 
 **Today's Progress**: Finished another section in the 'Contoso University' tutorial by Microsoft.
