@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: February 06, 2019
+
+**Today's Progress**: Another section finished in the 'Contoso University' tutorial by Microsoft.
+
+**Thoughts:** There are 6 sections left in this tutorial.  I hope to do more than 1 per night, but this last section was pretty long.  I'm also trying to really understand the concepts before moving on, instead of just copy/pasting code just to say I did it.  I learned about complex data modeling using code first techniques.  I found a cool plugin I'm going to play around with later call Entity Framework 6 Power Tools - this is the program used to create the data relationship diagrams in the tutorial.  This could be a neat tool to use for planning future projects.
+
+**Link to work:** <br>
+[Contoso University](https://github.com/delsuckahh/Contoso-University) <br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-a-more-complex-data-model-for-an-asp-net-mvc-application)<br>
+
+
 ### Day 15: February 05, 2019
 
 **Today's Progress**: Just finished another section in the 'Contoso University' tutorial by Microsoft.
