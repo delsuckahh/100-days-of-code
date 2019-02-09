@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: February 08, 2019
+
+**Today's Progress**: Completed one more section in the 'Contoso University' tutorial by Microsoft.
+
+**Thoughts:** Learned about the differences between lazy, eager, and explicit loading, and when each situation might be beneficial to performance.  Seems like the only TRUE way to tell which one is better for the program is to test and see.  My initial thought is that sounds like a lot of work, BUT this could be something after the initial product is out the door (assuming performance isn't suffering).  I also learned how to retrieve related data and create ViewModels in order to achieve this.  This will help me with my meal planning app I'm sure.
+
+**Link to work:** <br>
+[Contoso University](https://github.com/delsuckahh/Contoso-University) <br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/reading-related-data-with-the-entity-framework-in-an-asp-net-mvc-application)<br>
+
 ### Day 16: February 06, 2019
 
 **Today's Progress**: Another section finished in the 'Contoso University' tutorial by Microsoft.
