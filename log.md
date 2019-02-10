@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 18: February 09, 2019
+
+**Today's Progress**: Completed another section in the 'Contoso University' tutorial by Microsoft.
+
+**Thoughts:** Another section of the tutorial done.  I felt like I was kind of just going through the motions on this one.  Nothing really stood out to me.  It was very similar to the previous section, in that it was just updating the controller and related views for manipulating related data.  I feel like I'm ready to move on working on my project again, but I do want to finish out this tutorial.
+
+**Link to work:** <br>
+[Contoso University](https://github.com/delsuckahh/Contoso-University) <br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/updating-related-data-with-the-entity-framework-in-an-asp-net-mvc-application)<br>
+
 ### Day 17: February 08, 2019
 
 **Today's Progress**: Completed one more section in the 'Contoso University' tutorial by Microsoft.
