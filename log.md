@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 19: February 10, 2019
+
+**Today's Progress**: One more section in the 'Contoso University' tutorial by Microsoft completed.
+
+**Thoughts:** I learned a bit more about async programming with ASP.NET today.  It's a way to free up threads when waiting for an I/O operation, which is especially helpful for high volume web applications.  Without it, each operation would need to complete before freeing up the resource for the next request.  Only a few more sections left in this tutorial.
+
+**Link to work:** <br>
+[Contoso University](https://github.com/delsuckahh/Contoso-University) <br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/async-and-stored-procedures-with-the-entity-framework-in-an-asp-net-mvc-application)<br>
+
+
 ### Day 18: February 09, 2019
 
 **Today's Progress**: Completed another section in the 'Contoso University' tutorial by Microsoft.
