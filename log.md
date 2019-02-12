@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 20: February 11, 2019
+
+**Today's Progress**: Finished 2 sections in the 'Contoso University' tutorial by Microsoft.
+
+**Thoughts:** Got through two sections tonight, one on data concurrency and the other on implementing inheritance.  The concurrency tutorial was good to think about for applications where users might be updating the same record at the same time.  If that is a concern, and one that would cause issues for simply overwriting the data, there are some nice built in functions in the entity framework.  The inheritance section was neat because I had never seen inheritance in the context of databases.  I guess it makes sense, though, since the code first approach uses classes to create the database.  That is definitely something I'll need to keep in mind for my project.  I've only got one more section in this tutorial, and I'm ready to be done.  I'm ready to start working on my project!
+
+**Link to work:** <br>
+[Contoso University](https://github.com/delsuckahh/Contoso-University) <br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/implementing-inheritance-with-the-entity-framework-in-an-asp-net-mvc-application)<br>
+
+
 ### Day 19: February 10, 2019
 
 **Today's Progress**: One more section in the 'Contoso University' tutorial by Microsoft completed.
