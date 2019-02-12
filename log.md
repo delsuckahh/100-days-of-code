@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+[More Tutorials](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/mvc-learning-sequence)
+
 ### Day 20: February 11, 2019
 
 **Today's Progress**: Finished 2 sections in the 'Contoso University' tutorial by Microsoft.
