@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 12, 2019
+
+**Today's Progress**: Completed the 'Contoso University' tutorial by Microsoft.
+
+**Thoughts:** Finally finished up the tutorial tonight.  This last section was neat, it was more just briefly introducing some advanced concepts that you could potentially run across in developing an ASP.NET application.  I've saved it for later reference.  Overall, this tutorial was pretty good; it taught me concepts that I did not know without getting too difficult to follow.  I'm definitely ready to start on my own app now.  Tomorrow I will create my data model.  I think that I will not worry about authentication quite yet.  That was taking up a lot of time; I want to make some progress on the core functionality of the app, and then I can go in and add authorization later.
+
+**Link to work:** <br>
+[Contoso University](https://github.com/delsuckahh/Contoso-University) <br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/advanced-entity-framework-scenarios-for-an-mvc-web-application)<br>
 [More Tutorials](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/mvc-learning-sequence)
 
 ### Day 20: February 11, 2019
