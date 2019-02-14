@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 13, 2019
+
+**Today's Progress**: Got a working version of the data models I'll be using in the meal planning app.
+
+**Thoughts:** It was nice to solidify the concepts I learned in the tutorial, in regards to creating data models.  I have now what I think is my final version of data design.  I'll most likely add some more validations/requirements, but the structure is good.  I have a working index page for the recipes.  Tomorrow, I will modify the controller and view to display the ingredients and instructions - right now, it just shows data from the recipe table itself.
+
+**Link to work:** <br>
+[MealPlanner](https://github.com/delsuckahh/meal-planner/tree/IngredientTesting)
+
 ### Day 21: February 12, 2019
 
 **Today's Progress**: Completed the 'Contoso University' tutorial by Microsoft.
