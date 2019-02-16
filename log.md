@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 15, 2019
+
+**Today's Progress**: I broke everything.
+
+**Thoughts:** I screwed up my database connection.  For some reason, I had two database contexts, "ApplicationDbContext" which seems like the default, and "MealPlannerContext" which seems like I somehow made - probably with some scaffolded function.  Where I'm confused, is that the project I worked on in the tutorial had a web.config file, while my project has a appsettings.json file.  One is xml one is json (obviously).  However, I just cannot get the context working like I need to.  Right now my project has a compile error so it does not work at all. RIP.
+
+Note:  I missed yesterday due to technical issues.  I had to resize my harddrive partitions, download some drivers for my GPU, uninstall/reinstall some software, and of course I had to back up my computer before I started all that.  So that took up my entire evening yesterday.  Just so you don't think I'm some sort of slacker or something...
+
+**Link to work:** <br>
+[MealPlanner](https://github.com/delsuckahh/meal-planner/tree/ConnectToDB)
+
 ### Day 22: February 13, 2019
 
 **Today's Progress**: Got a working version of the data models I'll be using in the meal planning app.
