@@ -6,6 +6,8 @@
 
 **Thoughts:**  I started my project over today.  I started the project before I had begun the tutorials, and I felt like I was in a bad place.  I hadn't progressed that much, but my environment was pretty messed up.  I decided to cut my losses and start at the beginning.  The only thing I transferred over was my existing data models.  I copied those over and focused on getting my database connection right.  I felt like I made good progress, although I could not get the seed method to run for some reason.  I was having some issues with building the scaffolded code, which ended up being an issue with my seed method.  I initially left it with default code, but that was causing an object instantiation error.  Commenting out the ContextInitializer string in the web.config file fixed that problem.  I set the seed method to only run on model change.  I made some trivial changes and ran the update-databse commands, but for some reason the seed method was never called.  (Or rather, it never created succesfully - I just realized while typing this out, I could put some logging in that method to see if its being called.  Perhaps it IS called, its just not functioning like I'm intending.)
 
+Edit: I got the seed method to run.  I think for some reason I just wasn't changing enough to cause the DropCreateDatabaseIfModelChanges<MealContext> to trigger.  I changed the database connection name (from MealPlanner1 to MealPlanner2) to force a new database creation when I ran the program.  This caused the seed method to run, and I can see my seeded recipes! Yay!
+
 **Link to work:** <br>
 [MealPlanner](https://github.com/delsuckahh/meal-planner/tree/FreshStart/MealPlanner)
 
