@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 25: February 18, 2019
+
+**Today's Progress**: Worked on the recipe detail view.
+
+**Thoughts:**  Today was good; I solidifed some more of the concepts I learned in the Contoso University tutorial, specifially using a ViewModel class to display related data.  I haven't made any related data records yet (ingredients/instructions), but I made the viewmodel class and was able to successfully display the data passed by the controller.
+
+**Link to work:** <br>
+[MealPlanner](https://github.com/delsuckahh/meal-planner/tree/FreshStart/MealPlanner)
+
+
 ### Day 24: February 17, 2019
 
 **Today's Progress**: Started fresh, due to db connection issues.
