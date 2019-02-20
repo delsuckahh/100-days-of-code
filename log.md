@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 19, 2019
+
+**Today's Progress**: Read a LITTLE documentation.
+
+**Thoughts:** I'll be honest, I was NOT feeling it tonight.  We had family over late for my mother-in-law's birthday.  I looked up some documentation on handling one-to-many relationship in regards to viewing/creating/editing.  Next step for me is to either display and/or create ingredient records for the recipe record.  Not sure how to practically get started with that, but I found a few promising articles on how to handle that.
+
+**Link to work:** <br>
+[MealPlanner](https://github.com/delsuckahh/meal-planner/tree/FreshStart/MealPlanner)
+
 ### Day 25: February 18, 2019
 
 **Today's Progress**: Worked on the recipe detail view.
