@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 23, 2019
+
+**Today's Progress**: Worked on reading/displaying related records with the Recipe controller and detail view.
+
+**Thoughts:** For those that are actually reading and following my progress, my apologies for missing the past three days.  I'm really trying not to miss a day, let alone 3 days in a row.  Going forward, I'm not going to mention my absences, though.  I've determined that while I AM committed to coding for 100 days, life happens and I probably won't be perfect in coding every single day for an hour.  I've got a family to take care of and stuff comes up.  Anyway, on with the coding update...<br>
+<br>
+This morning I made some decent progress.  I'm having trouble displaying the related records of Recipe (Ingredient/Instruction).  I did tweak the MealInitializer class to create related records, which will help me in figuring out how to display that data (I can't display what doesn't exist).  Here's what I came up with:<br>
+````
+protected override void Seed(MealContext context)
+        {
+            var recipes = new List<Recipe>
+            {
+                new Recipe{Title="Taco Soup",Description="Its like a taco, but in soup form",PrepTime=30,CookTime=30,Calories=1200,NumServings=4,Course="Dinner",Cuisine="Mexian",},
+                new Recipe{Title="Beef Ravioli",Description="Beef stuffed into a noodle, what's not to like?",PrepTime=60,CookTime=50,Calories=2200,NumServings=4,Course="Dinner",Cuisine="Italian",}
+            };
+            recipes.ForEach(s => context.Recipes.Add(s));
+            context.SaveChanges();
+
+            var ingredients = new List<Ingredient>();
+            var instructions = new List<Instruction>();
+            foreach(Recipe item in recipes)
+            {
+                ingredients.Add(new Ingredient { RecipeID = item.ID, Item = "Ingredient 1", });
+                ingredients.Add(new Ingredient { RecipeID = item.ID, Item = "Ingredient 2", });
+                instructions.Add(new Instruction { RecipeID = item.ID, StepNum = 1, Description = "Instruction 1", });
+                instructions.Add(new Instruction { RecipeID = item.ID, StepNum = 2, Description = "Instruction 2", });
+            }
+            ingredients.ForEach(s => context.Ingredients.Add(s));
+            instructions.ForEach(s => context.Instructions.Add(s));
+            context.SaveChanges();
+
+        }
+````
+I modifed the the Views/Recipe/Details view to display this new data, but I've not got the controller passing the right content quite yet.  I'm currently getting a <br>
+````
+Object reference not set to an instance of an object.
+````
+error, which means I'm not initializing the class right, so it doesn't have access to the data.  I'm looking back through the Conotoso University tutorial for some guidance on that.<br>
+**Link to work:** <br>
+[MealPlanner](https://github.com/delsuckahh/meal-planner/tree/FreshStart/MealPlanner)<br>
+[Tutorial](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/reading-related-data-with-the-entity-framework-in-an-asp-net-mvc-application#learn-how-to-load-related-data)<br>
+
+
+
+
 ### Day 26: February 19, 2019
 
 **Today's Progress**: Read a LITTLE documentation.
